@@ -7,5 +7,5 @@ Travel Ease is a user-friendly online travel booking system that simplifies trip
 - **css** ![Python](https://img.shields.io/badge/css-8.9%25-blue)
 - **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-7.3%25-yellowgreen)
 
-- **html** ![SQL](https://img.shields.io/badge/SQL-4.2%25-orange)
-- **hack** ![React](https://img.shields.io/badge/React-8.6%25-lightblue)
+- **html** ![SQL](https://img.shields.io/badge/html-4.2%25-orange)
+- **hack** ![React](https://img.shields.io/badge/hack-8.6%25-lightblue)
